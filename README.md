@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 
   <!-- Photoshop -->
-   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%305CDE.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-#305CDE.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
 
   <!-- Illustrator -->
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
