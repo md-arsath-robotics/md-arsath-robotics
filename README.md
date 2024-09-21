@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Arsath</h1>
 <h3 align="center">Aspiring Robotics Engineer | Passionate About Surgical Innovation</h3>
-<img  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/tenor.gif" height="290px" align="right" />
 - 🔭 I’m currently working on **VR-based system for real-time eye pressure measurement in glaucoma patients.**
 
 - 🌱 I’m currently learning **The principles of surgical robotics and exploring new innovations in medical technology.**
