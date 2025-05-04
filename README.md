@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Robotics Engineer | Passionate About Surgical Innovation</h3>
 - 🔭 I’m currently working on **Telepresence Robot for Remote Diagnostics.**  
 
-- 🧠 Exploring **Medical Image Processing and Segmentation** to assist in surgical planning and diagnostics.**
+- 🧠 Exploring **Medical Image Processing and Segmentation**.
 
-- 🌱 I’m currently learning **The principles of surgical robotics and exploring new innovations in medical technology.**
+- 🌱 I’m currently learning **The principles of surgical robotics and exploring new innovations in medical technology**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that advance surgical robotics and automation in healthcare.**
 
