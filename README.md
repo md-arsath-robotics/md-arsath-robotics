@@ -42,8 +42,8 @@
   <!-- CSS3 -->
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-  <!-- Bootstrap -->
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <!-- Bootstrap -->
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -56,4 +56,8 @@
 
   <!-- Illustrator -->
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+
+  <!-- Fusion360 -->
+  <img src="https://img.shields.io/badge/Fusion%20360-%23FF6C37.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/>
+
 </p>
