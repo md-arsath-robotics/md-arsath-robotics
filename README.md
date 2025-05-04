@@ -61,3 +61,23 @@
   <img src="https://img.shields.io/badge/Fusion%20360-%23FF6C37.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/>
 
 </p>
+
+<h3 align="left">🎥 Content Creation Tools & Platforms:</h3>
+
+<p align="left">
+
+  <!-- Adobe Photoshop -->
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>
+
+  <!-- Canva -->
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+
+  <!-- CapCut -->
+  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+
+  <!-- YouTube -->
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+
+  <!-- Instagram -->
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</p>
