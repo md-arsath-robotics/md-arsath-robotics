@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Arsath</h1>
 <h3 align="center">Aspiring Robotics Engineer | Passionate About Surgical Innovation</h3>
-- 🔭 I’m currently working on ** Telepresence Robot for Remote Diagnostics.**
+- 🔭 I’m currently working on **Telepresence Robot for Remote Diagnostics.**  
+
+- 🧠 Exploring **Medical Image Processing and Segmentation** to assist in surgical planning and diagnostics.**
 
 - 🌱 I’m currently learning **The principles of surgical robotics and exploring new innovations in medical technology.**
 
