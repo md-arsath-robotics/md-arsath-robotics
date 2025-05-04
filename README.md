@@ -75,9 +75,14 @@
   <!-- CapCut -->
   <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
 
-  <!-- YouTube -->
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <!-- YouTube with link -->
+  <a href="https://youtube.com/shorts/DTdE7OddPxk?feature=share" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 
-  <!-- Instagram -->
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <!-- Instagram with link -->
+  <a href="https://www.instagram.com/reel/DDjwJB3vPaz/?igsh=MWgxdDBjaHR0MXllMQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 </p>
