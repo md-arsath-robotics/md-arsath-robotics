@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Latest tech trends.**
 
-- 📫 How to reach me **muhammedarsath06@gmail.com**
+- 📫 How to reach me **muhammedarsath06@gmail.com** , **mmohamed@karunya.edu.in**
 
 - ⚡ Fun fact **I can name all the planets in the solar system in under 10 seconds!**
 
